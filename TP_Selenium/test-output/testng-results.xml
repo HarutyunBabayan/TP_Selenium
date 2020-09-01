@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="49817" started-at="2020-08-31T13:26:17 EDT" finished-at="2020-08-31T13:27:07 EDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="49817" started-at="2020-08-31T13:26:17 EDT" finished-at="2020-08-31T13:27:07 EDT">
+      <class name="com.harut.test.CreerEtSupprimer">
+        <test-method status="PASS" signature="CreeCategorie()[pri:0, instance:com.harut.test.CreerEtSupprimer@614ddd49]" name="CreeCategorie" duration-ms="26540" started-at="2020-08-31T13:26:17 EDT" finished-at="2020-08-31T13:26:44 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreeCategorie -->
+        <test-method status="PASS" signature="SupprimerCategorie()[pri:0, instance:com.harut.test.CreerEtSupprimer@614ddd49]" name="SupprimerCategorie" duration-ms="23234" started-at="2020-08-31T13:26:44 EDT" finished-at="2020-08-31T13:27:07 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SupprimerCategorie -->
+      </class> <!-- com.harut.test.CreerEtSupprimer -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
